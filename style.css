@@ -1,0 +1,38 @@
+*{
+  margin: 0%;
+  }
+  .contato{
+  display: flex;
+  justify-content: space-around;
+  align-items: normal;
+  }
+  
+  .carrossel img{
+  height: 500px;
+  object-fit:cover;
+  }
+  nav ul{
+  display: flex;
+  justify-content: space-around;
+  
+  color: white;
+  margin: 15px;
+  }
+  nav{
+  background-color: purple;
+  padding: 5px;
+  }
+  
+  header{
+  margin: auto;
+  padding: 1px;
+  
+  }
+  .div-imagem{
+      justify-content: space-around;
+      object-fit:cover;
+      height: -50px;
+      width: 50;
+    }
+  
+
